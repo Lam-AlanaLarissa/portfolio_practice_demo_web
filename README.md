@@ -1,4 +1,4 @@
-# <img src="web-demo.png" alt="Website Layout">
+# [<img src="web-demo.png" alt="Website Layout">](http://via.placeholder.com/200x150 "Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript")
 # Portfolio Website Practice Demo
 ## REQUIREMENTS
 ### *_I. Name of project_*
