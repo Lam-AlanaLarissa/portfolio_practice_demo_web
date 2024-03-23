@@ -12,6 +12,22 @@ This project is a portfolio that I made for practice. Sample taken from youtube 
 - Items Content:
   + Home:
     <img src="home-content.png" alt="Home Content">
-    * Briefly introduce yourself(content-left)
-    * Profile image(content-right)
+    * Content-left:
+      + Briefly introduce yourself: Present each occupation one by one.
+      + Social icons: link to social websites of self.
+      + Group of button: hire and contact(navigate to contact div in page)
+    * Content-right: Profile image
+      <img src="image.jpg" alt="Profile Image">
+  + Education: containe timeline and education's self in each year until now(jobs and schools)
+    <img src="education-img.png" alt="Education Image">
+  + Services: show skills in tech
+    <img src="services-img.png" alt="Services Image">
+  + Testimonials: from the other people that work with
+    <img src="testimonials-img.png" alt="Testimonials Image">
+  + Contact: fill blank of textbox for contacting to hire
+    <img src="contact-img.png" alt="Contact Image">
+  + Footer:
+    <img src="footer-img.png" alt="Footer Image">
+### *_III. Link References_*
+  <link href="https://youtu.be/UqHILyzcULE?si=DFuydOn2V8cP1Cwh" alt="Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript">   
   
