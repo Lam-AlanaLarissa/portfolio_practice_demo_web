@@ -29,5 +29,5 @@ This project is a portfolio that I made for practice. Sample taken from youtube 
   + Footer:
     <img src="footer-img.png" alt="Footer Image">
 ### *_III. Link References_*
-  https://youtu.be/UqHILyzcULE?si=DFuydOn2V8cP1Cwh" alt="Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript"  
+  <img src="https://youtu.be/UqHILyzcULE?si=DFuydOn2V8cP1Cwh" alt="Build a Complete Responsive Personal Portfolio Website using HTML CSS Javascript">  
   
