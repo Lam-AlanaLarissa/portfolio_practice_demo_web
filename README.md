@@ -1,4 +1,4 @@
-# [<img src="web-demo.png" alt="Website Layout">](https://lam-alanalarissa.github.io/portfolio_practice_demo_web_ver1/)"PORTFOLIO WEBSITE DEMO")
+# [<img src="web-demo.png" alt="Website Layout">](https://lam-alanalarissa.github.io/portfolio_practice_demo_web_ver1/))
 # Portfolio Website Practice Demo
 ## REQUIREMENTS
 ### *_I. Name of project_*
